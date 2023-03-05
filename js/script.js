@@ -82,13 +82,13 @@ const Card = () => {
     ImageDiv.className = 'result-img'
     singleResult.appendChild(ImageDiv)
     let resultImage = document.createElement('img');
-    resultImage.src = './images/dribbble-11.webp'
+    resultImage.src = './images/project.jpg'
     ImageDiv.appendChild(resultImage)
     let ResultUser = document.createElement('div');
     ResultUser.className = 'result-user'
     singleResult.appendChild(ResultUser)
     let profileImage = document.createElement('img');
-    profileImage.src = './images/dribbble-11.webp'
+    profileImage.src = './images/user.png'
     ResultUser.appendChild(profileImage)
     let UserText = document.createElement('div');
     UserText.className = 'result-user-text'

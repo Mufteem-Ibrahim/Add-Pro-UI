@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-.main-body {
+body {
     width: 100%;
     height: 100vh;
-    /* background: linear-gradient(#7e714d 50%,  50%); */
+    background: linear-gradient(#7e714d 50%,  50%); 
 }
 .container{
     position: relative;
