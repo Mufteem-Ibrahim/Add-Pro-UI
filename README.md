@@ -1,8 +1,7 @@
 # Add-Pro-UI
-is an open Source website Application where developers can upload their projects and use it as their portfolio.
-It aims in providing an interface for connecting our local developers the local recruiters  by showcasing your skills and location information 
-# Some of The Features
+is an open Source website Application where developers can upload their projects and use it as their portfolio. It aims in providing an interface for connecting our local developers with the local recruiters  by showcasing your skills and location information, the system will filter out developers to the recruiters based on their location first.
 
+# Some of The Features
 ## User profiles:
  Developers can create a profile with information about themselves, their skills, and their experience.
 
@@ -38,3 +37,20 @@ These are just some features to get started. You can add more features as the pr
 ### M: MongoDB ### E: Express Js ### R: React Js ### N: Node Js
 
 ## Contributors:
+Who can contribute to this project:
+### --- Developers
+### --- Technical Authors
+### --- Brand and UI/UX Designer
+### --- Graphics Designer
+### --- Security Speacialist
+### --- Bug Hunters
+### --- Cloud Engineer
+### --- Social Medial Advocates
+### 
+
+Will you use a cloud service like AWS or host the website on your own servers? What kind of maintenance will be required to keep the website running smoothly?
+What are your security requirements?
+
+How will you protect user data and prevent unauthorized access?
+How will you handle user feedback and support?
+
