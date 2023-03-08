@@ -46,11 +46,3 @@ Who can contribute to this project:
 ### --- Bug Hunters
 ### --- Cloud Engineer
 ### --- Social Medial Advocates
-### 
-
-Will you use a cloud service like AWS or host the website on your own servers? What kind of maintenance will be required to keep the website running smoothly?
-What are your security requirements?
-
-How will you protect user data and prevent unauthorized access?
-How will you handle user feedback and support?
-
