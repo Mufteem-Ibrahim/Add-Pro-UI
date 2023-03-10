@@ -1,6 +1,8 @@
 # Add-Pro-UI
 is an open Source website Application where developers can upload their projects and use it as their portfolio. It aims in providing an interface for connecting our local developers with the local recruiters  by showcasing your skills and location information, the system will filter out developers to the recruiters based on their location first.
 
+## Note: Add-pro Ui is a name given to the repo note the project.
+
 # Some of The Features
 ## User profiles:
  Developers can create a profile with information about themselves, their skills, and their experience.
